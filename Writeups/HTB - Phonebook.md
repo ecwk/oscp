@@ -1,0 +1,5 @@
+- Auth using raw LDAP query
+- (&(username=reese)(password=\*))
+	- Uses the wildcard symbol to brute-force guess the password, similar to lagncrash python's glob:// brute-force
+	- create Python script
+- The hint that the application was using ldap was the message `you can login using workstation`, hinting that some directory service is being used

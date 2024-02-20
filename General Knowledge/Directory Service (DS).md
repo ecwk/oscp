@@ -1,0 +1,11 @@
+- Essentially a database
+- Contains system and user data called objects (key-value pair / attribute-based)
+- Allows for central management of a system
+- Term directory means:
+	- Hierarchy
+	- Navigate from root to node
+	- E.g. from root domain `example.com` to user `bob.Admins.singapore.example.com CN=bob,OU=Admins,DC=singapore,DC=example,DC=com` traversed 2 nodes)
+- Directory service is not an implementation just a concept
+- Imlementations here:
+	- [[Lightweight Directory Access Protocol (LDAP)]]
+	- [[Active Directory (AD)]] (based on LDAP)

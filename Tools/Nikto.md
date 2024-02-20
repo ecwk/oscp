@@ -1,0 +1,1 @@
+- CLI vulnerability scanner for webserver containing dangeroud files/CGIs

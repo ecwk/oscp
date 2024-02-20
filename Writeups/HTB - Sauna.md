@@ -1,0 +1,14 @@
+- OSINT website info can reveal usernames
+	- Then create custom wordlist
+- [[Kerbrute]] to detect valid users
+- Bruteforce users crackmapexec
+- impacket asreproast
+- psexec or winrm
+- bloodhound
+	- find shortest to administrator
+- get locally stored password ([[autologon]], winpeas)
+	- acc has dcsync
+- use [[impacket]] secrets dump via dc sync
+- pass the hash administrator
+	- psexec
+	- winrm

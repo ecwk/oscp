@@ -1,0 +1,17 @@
+- **Understand the target and technologies** before attacking
+	- Learn C/C++
+	- Understand how to setup Active Directory
+	- Understanding low-level protocols like DNS, TCP
+	- Setting up services like DNS, Kerberos
+	- etc
+- **Read the syllabus** and use [[Resources]] to explore and learn outside of Offensive Sec
+- **Active Directory is hard**, need to focus
+- **Enumeration** is most important
+- **Create writeups and notes** for **EVERY Machine**
+	- Read other notes to add on missing information or improve on current notes
+- **Read writeups & walkthroughs** only after completing the machine, or machines haven't tried. This is to understand others' methodologies and adopt them to know what to do when seeing similar situations
+- **Create a playbook**, a simplified version of this document i.e. a cheatsheet
+- **Get bonus points**!
+- Use OSCP Exam Template
+- Do mock exam (optional)
+- Automate enumeration, not exploitation, to save time

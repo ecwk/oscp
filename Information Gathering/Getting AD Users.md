@@ -1,0 +1,7 @@
+- Kerberos bruteforcing
+	- If username doesn't exist, Kerberos will say
+	- Hence, can misuse this to verify that usernames exist
+	- [[Kerbrute]]
+- RPC enum
+	- [[rpcclient]]
+	- [[impacket]] rpc dump

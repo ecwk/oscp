@@ -1,0 +1,11 @@
+- Enum RPC and LDAP for user list
+- ASREPRoast
+	- Using userlist
+- Bloodhound
+- PowerShell Empire
+	- PowerSploit
+		- Add DCSync
+- DCSync
+	- impacket-secretsdump
+- Pass the hash
+	- WinRM

@@ -1,0 +1,9 @@
+- Information gathering is the process of collecting information about a target system or network
+	- E.g. OS, system architecture, installed applications, network topolgy
+	- Passive or active
+- Enumeration is a type of active information gathering involving queries to the target about users, resources, and services
+	- E.g. users, open ports, running servers
+- Fingerprinting
+	- Fingerprinting refers to the process of identifying the specific operating system, software, or hardware being used by a target system or network.
+	-   Fingerprinting can be accomplished using a variety of techniques, such as network scanning, packet analysis, and vulnerability scanning.
+	-   Once a system has been fingerprinted, this information can be used to identify potential vulnerabilities or attack vectors, and to focus subsequent efforts on the most promising attack vectors.
